@@ -1,5 +1,5 @@
 # コードを実行するコンテナイメージ
-FROM techmasat/uwr_ros:latest
+FROM techmasat/uwr_ubuntu:latest
 
 # アクションのリポジトリからコードファイルをファイルシステムパスへコピー
 `/` of the container
